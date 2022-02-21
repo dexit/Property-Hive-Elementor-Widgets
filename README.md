@@ -13,3 +13,5 @@ https://wp-property-hive.com/
 
 **PH Trello card with the bug:**
 https://trello.com/c/8ibKUcWm/1146-core-missing-icons-in-elementor-widgets
+
+Done by Rihards 'dExIT' Mantejs 
