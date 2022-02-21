@@ -5,6 +5,9 @@ The following files have been built for PH 1.5.28, current at wriiting is 1.5.30
 **
 Or if you wish to swap them out, place them in :** /wp-content/plugins/propertyhive/includes/elementor-widgets
 
+ ![All Modules](/allPHmoduleShow.jpg)
+
+
 **PH on Github:**
 https://github.com/propertyhive/WP-Property-Hive
 
