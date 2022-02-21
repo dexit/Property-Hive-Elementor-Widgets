@@ -2,8 +2,8 @@
 
 Property Hive Elementor Widget Enhancments while PH team migrates over to full elementor support.
 The following files have been built for PH 1.5.28, current at wriiting is 1.5.30 it should work as long you replace/include as overrides the files provided.
-**
-Or if you wish to swap them out, place them in :** /wp-content/plugins/propertyhive/includes/elementor-widgets
+
+**Or if you wish to swap them out, place them in :** `/wp-content/plugins/propertyhive/includes/elementor-widgets`
 
  ![All Modules](/allPHmoduleShow.jpg)
 
